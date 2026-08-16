@@ -20,6 +20,7 @@
 
 # RStudio files
 .Rproj.user/
+.Rproj
 
 # produced vignettes
 vignettes/*.html
@@ -47,3 +48,10 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+.positai
+
+# also the .gitignore file
+.gitignore
+
+# for this, the raw data (.csv) wouldn't be appropriate to share
+.csv
