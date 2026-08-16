@@ -20,7 +20,7 @@
 
 # RStudio files
 .Rproj.user/
-.Rproj
+*.Rproj
 
 # produced vignettes
 vignettes/*.html
@@ -54,4 +54,4 @@ rsconnect/
 .gitignore
 
 # for this, the raw data (.csv) wouldn't be appropriate to share
-.csv
+data/*.csv
