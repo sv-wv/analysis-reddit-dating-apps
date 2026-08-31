@@ -1,5 +1,6 @@
 library(quanteda)
 library(textplots)
+library(tidyverse)
 
 # Data wrangling ----
 
